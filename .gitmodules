@@ -1,0 +1,3 @@
+[submodule "packages/common"]
+	path = packages/common
+	url = https://github.com/weiitang/sz-common.git
